@@ -31,7 +31,7 @@ c. The app is not hosted. Please run it locally.
 
 ### RUNNING THE APPLICATION: <a name="running-the-application"></a>
 
-1.   Clone this repository using this link "https://github.com/jayanthkodurkumar/Docuworks-Server.git" (Copy and paste this on your terminal).
+1.   Clone this repository using the following command " git clone https://github.com/jayanthkodurkumar/Docuworks-Server.git " (Copy and paste this on your terminal).
 2.   Once you have cloned your application, run the command "npm install" on your terminal so that the necessary dependencies are installed on your local device.
 3.   In order to run the server, just type the "npm run devStart" command on the terminal.
 
