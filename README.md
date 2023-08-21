@@ -2,10 +2,11 @@
 
 ## TABLE OF CONTENTS
 
-1. [Introduction](#INTRODUCTION)
-2. [Important Note](#IMPORTANT-NOTE)
-3. [Running the app](#RUNNING-THE-APPLICATION)
-4. [Screenshots](#SCREENSHOTS)
+1. [Introduction](#introduction)
+2. [Important Note](#important-note)
+3. [Setting up MongoDB Cluster and Database](#mongodb-cluster)
+4. [Running the app](#running-the-application)
+5. [Screenshots](#screenshots)
 
 
 ### INTRODUCTION: <a name="introduction"></a>
@@ -22,11 +23,11 @@ b. You need both the server and the client versions to run the application as in
 
 c. The app is not hosted. Please run it locally.
 
-d. Make sure to create an account on MongoDB and create a cluster. 
+### SETTING UP MongoDB CLUSTER AND DATABASE:<a name="mongodb-cluster"></a>
 
-e. Once creating a cluster, create a database named 'docs' and a collection named 'docs'.
-
-f. You can install the MongoDB compass application to connect to your cluster and work on databases from your machine.
+1. Make sure to create an account on MongoDB and create a cluster. 
+2. Once creating a cluster, create a database named 'docs' and a collection named 'docs'.
+3. You can install the MongoDB compass application to connect to your cluster and work on databases from your machine.
 
 ### RUNNING THE APPLICATION: <a name="running-the-application"></a>
 
