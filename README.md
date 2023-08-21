@@ -17,7 +17,7 @@ document at one time. The application utilizes ReactJS for handling client-side 
 ### IMPORTANT NOTE: <a name="important-note"></a>
 
 
-a. This part of the repository consists of only the server side of the application. You can access the server from [here](https://github.com/jayanthkodurkumar/Docuworks-Client).
+a. This part of the repository consists of only the client side of the application. You can access the server from [here](https://github.com/jayanthkodurkumar/Docuworks-Client).
 
 b. You need both the server and the client versions to run the application as intended.
 
